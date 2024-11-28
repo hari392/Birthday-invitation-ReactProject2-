@@ -1,0 +1,20 @@
+/* InvitationDetails.css */
+.details {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff7e6;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .details-title {
+    font-family: "Comic Sans MS", cursive;
+    color: #ff5722;
+    font-size: 2rem;
+  }
+  
+  .balloons {
+    margin-top: 20px;
+    font-size: 2rem;
+  }
+  

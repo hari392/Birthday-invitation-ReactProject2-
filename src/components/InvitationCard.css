@@ -1,0 +1,25 @@
+.card {
+    background-color: #ffccff;
+    border-radius: 15px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-family: "Brush Script MT", cursive;
+    color: #d81b60;
+    font-size: 2.5rem;
+  }
+  
+  .open-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #d81b60;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
